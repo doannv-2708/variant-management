@@ -356,12 +356,3 @@ onSelect: function (oEvent) {
 * Nếu app dùng **SmartFilterBar / SmartTable** → **NÊN dùng SmartVariantManagement**.
 * Chỉ nên tự làm nếu có yêu cầu business đặc thù (quyền, phân hệ, custom field…).
 
----
-
-Nếu bạn muốn, mình có thể:
-
-✅ Tạo bản tài liệu PDF/README chuẩn dự án
-✅ Chuẩn hóa để dùng trong Wiki / Redmine / GitHub Pages
-✅ Vẽ sơ đồ kiến trúc (UML, sequence, data flow)
-
-Chỉ cần bạn nói mình biết!
